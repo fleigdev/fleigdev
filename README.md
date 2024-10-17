@@ -14,14 +14,11 @@ I’m a Full-Stack Developer turned Project Manager with a knack for tackling co
 ## My Toolbox 🧰
 ```text
 JavaScript | Python | React | Vue.js | Node.js | Django | Kubernetes | Docker | Jenkins | Agile | JIRA
+```
 What I'm Listening To 🎧
 
 How to Reach Me 📬
 
-    LinkedIn: linkedin.com/in/yourprofile
-    Twitter: @yourhandle
-    Blog: YourBlog.com
+    LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/martin-fleig-638b2aba/)
+    Website: koboldsolutions.com
 
-Just for Fun ⚡
-
-Did you know I once coded an entire app while backpacking through Europe? I believe a change of scenery ignites creativity! 🌍✨
