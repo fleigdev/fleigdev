@@ -1,6 +1,6 @@
 # Hello, I'm Martin! 👋💻
 
-![Software Developer and Strategist](https://user-images.githubusercontent.com/link-to-your-banner-image.png)
+Software Engineer and Strategist
 
 ## About Me
 I’m a Software Engineer with a strong drive to tackle complex web projects using innovative solutions and strategic management. 🌟🚀
