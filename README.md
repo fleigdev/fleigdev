@@ -24,7 +24,7 @@ What I'm Listening To 🎧
 
 How to Reach Me 📬
 
-    LinkedIn: [https://www.linkedin.com/in/martin-fleig-638b2aba/]
-    Email: [martin@koboldsolutions.com]
-    Website: [koboldsolutions.com]
+    LinkedIn: https://www.linkedin.com/in/martin-fleig-638b2aba/
+    Email: martin@koboldsolutions.com
+    Website: www.koboldsolutions.com
 
