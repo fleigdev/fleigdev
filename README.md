@@ -2,7 +2,7 @@
 
 Software Engineer and Strategist
 
-![Funny Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM4cjd2bDNmbm8ybXZ3YmQ1MWN2bmxvZzdxMmJ0aG9ka3Jwb2NmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif "Funny Coding")
+![Funny Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR0bHl1enZmdWlweDdybXh4NGxva2l6MmM3dG10NmM2ZXlleHFndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4JyNNqiVzBMbDOVO/giphy.gif "Funny Coding")
 
 ## About Me
 I’m a Software Engineer with a strong drive to tackle complex web projects using innovative solutions and strategic management. 🌟🚀
