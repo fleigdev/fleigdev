@@ -8,7 +8,7 @@ I’m a Software Engineer with a strong drive to tackle complex web projects usi
 - 🔭 Currently working on enhancing my skills in **DevOps** and **Agile practices**.
 - 🎓 Master’s degree in Strategic Management in Software Engineering.
 - 👯 I’m looking to collaborate on **open source projects** that make a difference.
-- 🕹️ In my free time, I merge my love for coding with gaming, often inspired by characters like Master Chief and Solid Snake.
+- 🕹️ In my free time, I merge my love for coding with gaming, developing Unreal experiences, often inspired by characters like Master Chief and Solid Snake.
 
 ## My Toolbox 🧰
 ```text
