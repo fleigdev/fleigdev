@@ -2,6 +2,8 @@
 
 Software Engineer and Strategist
 
+<iframe src="https://giphy.com/embed/7VzgMsB6FLCilwS30v" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v">via GIPHY</a></p>
+
 ## About Me
 I’m a Software Engineer with a strong drive to tackle complex web projects using innovative solutions and strategic management. 🌟🚀
 
