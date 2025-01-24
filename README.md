@@ -22,6 +22,7 @@ What I'm Listening To 🎧
 - Django Rheinhardt 
 - The 3 Kings (BB, Freddie, Albert)
 - Frederic Chopin
+- Casiopea
 
 
 How to Reach Me 📬
